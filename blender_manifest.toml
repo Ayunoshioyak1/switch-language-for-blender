@@ -1,0 +1,34 @@
+schema_version = "1.0.0"
+
+# アドオンの固有ID。小文字とアンダースコアのみ使用可能。
+id = "switch_language"
+version = "1.0.0"
+name = "Switch Language"
+
+# 【必須追加項目】短い説明文（UIのリスト表示などに使われます。長すぎないようにします）
+tagline = "Switch between 2 languages with a shortcut or UI button."
+
+# 詳細な説明文
+description = "Switch between 2 languages with a shortcut or UI button, and control data name generation (Objects, Workspaces, etc)."
+
+# 開発者の情報を記載します
+maintainer = "Ayunoshioyak1 <X(Twitter): @ayunoshioyak1>"
+
+# 必須のライセンス指定（Blender ExtensionsはGPL互換であることが必須です）
+license = [
+    "SPDX-License-Identifier: GPL-2.0-or-later"
+]
+
+# 著作権表示（年と名前を記載します）
+copyright = [
+    "2026 Ayunoshioyak1"
+]
+
+# Blender Extensions公式サイトの規約に基づく種類指定
+type = "add-on"
+
+# サポートする最小のBlenderバージョン (Extensionsは4.2以降の機能です)
+blender_version_min = "4.2.0"
+
+# 必要に応じてご自身のウェブサイトやGithubのURLを記載（任意）
+website = "https://github.com/Ayunoshioyak1/switch-language-for-blender"
