@@ -2,7 +2,7 @@
 
 A lightweight Blender Extension that allows you to instantly toggle between two preferred interface languages using a shortcut key or a UI button. It also gives you precise control over how new data names (like Objects, Materials, and Workspaces) are translated.
 
-## ✨ Features
+## Features
 
 * **Instant Language Toggling:** Switch back and forth between two configured languages (e.g., English and Japanese) without digging through preference menus.
 * **Shortcut Key:** Quickly toggle languages using `Ctrl + Alt + L` (fully customizable).
@@ -10,11 +10,11 @@ A lightweight Blender Extension that allows you to instantly toggle between two 
 * **Name Generation Control:** Choose how Blender names newly created objects. You can sync it with your current language or force it to be "Language Independent" (always English) to avoid multi-byte characters in your project data.
 * **Non-intrusive Notifications:** Displays a brief status bar message when the language is switched.
 
-##  Требования / Requirements
+## Requirements
 
 * **Blender 4.2 or newer** (Utilizes the new Blender Extensions system).
 
-## 📦 Installation
+##Installation
 
 Since this add-on is built as a Blender Extension, follow these steps to install it from a `.zip` file:
 
@@ -41,7 +41,7 @@ Once installed, you can configure the extension by clicking on its settings icon
 * **Show Topbar Button:** Show or hide the globe icon in the top right of the Blender window.
 * **Shortcut Key Setup:** Change the default `Ctrl + Alt + L` shortcut to any key combination you prefer.
 
-## 📝 License
+## License
 
 This project is licensed under the [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later.html) license, adhering to Blender's official extension guidelines.# Switch Language (Blender Extension)
 
