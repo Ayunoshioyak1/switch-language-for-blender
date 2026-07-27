@@ -6,7 +6,7 @@ version = "1.0.0"
 name = "Switch Language"
 
 # 【必須追加項目】短い説明文（UIのリスト表示などに使われます。長すぎないようにします）
-tagline = "Switch between 2 languages with a shortcut or UI button."
+tagline = "Switch between 2 languages with a shortcut or UI button"
 
 # 詳細な説明文
 description = "Switch between 2 languages with a shortcut or UI button, and control data name generation (Objects, Workspaces, etc)."
@@ -16,7 +16,7 @@ maintainer = "Ayunoshioyak1 <X(Twitter): @ayunoshioyak1>"
 
 # 必須のライセンス指定（Blender ExtensionsはGPL互換であることが必須です）
 license = [
-    "SPDX-License-Identifier: GPL-2.0-or-later"
+    "SPDX:GPL-3.0-or-later"
 ]
 
 # 著作権表示（年と名前を記載します）
